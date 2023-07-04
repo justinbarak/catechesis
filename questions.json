@@ -231,7 +231,7 @@
         },
         "58": {
             "Q": "How does God sanctify you?",
-            "A": "God makes me more and mroe holy in heart and conduct."
+            "A": "God makes me more and more holy in heart and conduct."
         },
         "59": {
             "Q": "What must you do to be saved?",
@@ -302,8 +302,112 @@
             "A": "Because I am guilty of breaking God's law"
         },
         "76": {
-            "Q": "Why do you need Christ as your kind?",
+            "Q": "Why do you need Christ as your king?",
             "A": "Because I am weak and helpless."
         }
+    },
+    "subgroups": {
+        "1": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "2": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ],
+        "3": [
+            14,
+            15
+        ],
+        "4": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ],
+        "5": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+        ],
+        "6": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+        ],
+        "7": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+        ],
+        "8": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+        ],
+        "9": [
+            51,
+            52,
+            53,
+            54
+        ],
+        "10": [
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+        ],
+        "11": [
+            61,
+            62,
+            63,
+            64
+        ],
+        "12": [
+            65,
+            66,
+            67,
+            68
+        ],
+        "13": [
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
     }
 }
